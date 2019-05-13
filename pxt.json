@@ -8,12 +8,12 @@
         "ws2812b": "github:Microsoft/pxt-ws2812b#v0.0.4"
     },
     "runtime": {
-        "mathBlocks": true,
-        "loopsBlocks": true,
-        "logicBlocks": true,
-        "variablesBlocks": true,
-        "textBlocks": true,
-        "listsBlocks": true,
+        "mathBlocks": false,
+        "loopsBlocks": false,
+        "logicBlocks": false,
+        "variablesBlocks": false,
+        "textBlocks": false,
+        "listsBlocks": false,
         "functionBlocks": true,        
         "onStartColor": "#54C9C9",
         "onStartNamespace": "basic",
